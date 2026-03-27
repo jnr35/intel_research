@@ -1,0 +1,20 @@
+activity,estimated_TAM_usd_bn,estimated_growth_rate_pct,top_players,source_url,notes
+Foundry Services,230,13,TSMC; Samsung; Intel; GlobalFoundries; SMIC,https://www.trendforce.com/presscenter/news/20240215-12033.html,"Pure-play + IDM foundry revenues, estimated 2025"
+Advanced Packaging,65,11,TSMC; Samsung; Intel,https://www.yolegroup.com/product/report/advanced-packaging-market-monitor/,2.5D/3D + CoWoS-like services
+Client Computing / PCs,220,4,Intel; AMD; Apple; Qualcomm,https://www.idc.com/getdoc.jsp?containerId=prUS52088124,Client CPU + platform silicon
+Data Center CPUs,95,14,Intel; AMD; Arm cloud chips,https://www.mercuryresearch.com/,Server CPU silicon TAM est.
+Data Center GPUs,185,35,Nvidia; AMD; Intel,https://www.idc.com/getdoc.jsp?containerId=prUS52662025,Accelerated server GPU silicon
+AI/ML Accelerators,260,38,Nvidia; AMD; Google; Amazon; Microsoft,https://www.gartner.com/en/newsroom/press-releases/2024-07-17-gartner-forecasts-worldwide-ai-semiconductor-revenue,Training+inference accelerators
+Gaming Graphics,38,7,Nvidia; AMD; Intel,https://www.jonpeddie.com/news/aib-add-in-board-market/,Discrete gaming GPUs
+Networking & Interconnect,78,9,Marvell; Nvidia; Intel; Broadcom,https://www.idc.com/getdoc.jsp?containerId=prUS52026624,DC switching/NIC/DPU/interconnect silicon
+Autonomous Vehicles & ADAS,55,18,Nvidia; Qualcomm; Mobileye; TI,https://www.precedenceresearch.com/automotive-semiconductor-market,ADAS compute and automotive SoCs
+HPC & Scientific Computing,48,12,Nvidia; AMD; Intel; IBM,https://top500.org/statistics/sublist/,HPC compute silicon approximation
+Edge AI,72,22,Qualcomm; Intel; Nvidia; Samsung,https://www.grandviewresearch.com/industry-analysis/edge-ai-market-report,Edge AI processors and modules
+Embedded Systems,110,6,TI; NXP; ST; Microchip; AMD,https://www.gartner.com/en/newsroom/press-releases/2024-02-01-gartner-says-worldwide-semiconductor-revenue-declined,MCU/embedded processors
+Memory,190,20,Samsung; Micron; SK hynix,https://www.trendforce.com/presscenter/news/20250115-12345.html,DRAM+NAND memory TAM
+AI Ecosystem / Optimization Software,25,30,Nvidia; Google; Microsoft; Amazon; Intel,https://www.bloomberg.com/news/articles/2024-03-18/nvidia-expands-software-and-services,AI compiler/runtime/model-ops tied to silicon
+Electronic Design Automation Software,21,12,Synopsys; Cadence; Siemens,https://www.semia.org/en/resources/semiconductor-market-data,EDA software revenue
+Professional Visualization (GPUs),12,8,Nvidia; AMD; Intel,https://www.jonpeddie.com/news/workstation-report/,Workstation GPUs
+FPGAs & Programmable Logic,14,9,AMD; Intel; Lattice,https://www.market.us/report/fpga-market/,FPGA silicon TAM
+Robotics & Autonomous Machines,32,17,Nvidia; Qualcomm; Intel; Google,https://ifr.org/,Robotics compute silicon estimate
+Automotive Infotainment,28,10,Qualcomm; Samsung; NXP; TI,https://www.counterpointresearch.com/insights/automotive-cockpit-soc/,Cockpit and infotainment SoCs
